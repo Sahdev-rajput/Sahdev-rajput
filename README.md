@@ -39,5 +39,4 @@
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/vim.png"></code>
 
 [![SAHDEV's github stats](https://github-readme-stats.vercel.app/api?username=Sahdev-rajput&show_icons=true&theme=merko)](https://github.com/Sahdev-rajput)
-[![SAHDEV's github activity graph]
-(https://github-readme-activity-graph.cyclic.app/graph?username=Sahdev-rajput&bg_color=3ef40b&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sahdev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sahdev-rajput&bg_color=3ef40b&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
