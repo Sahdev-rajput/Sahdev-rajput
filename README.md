@@ -49,8 +49,7 @@
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></code>
 
-
-</code>
+  ### :fire: My Stats :
 
 [![SAHDEV's github stats](https://github-readme-stats.vercel.app/api?username=Sahdev-rajput&show_icons=true&theme=merko)](https://github.com/Sahdev-rajput)
 [![Sahdev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sahdev-rajput&bg_color=3ef40b&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
