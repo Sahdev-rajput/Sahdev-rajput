@@ -50,7 +50,7 @@
   <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></code>
 
   ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-Sahdev-rajput&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-Sahdev-rajput&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 [![SAHDEV's github stats](https://github-readme-stats.vercel.app/api?username=Sahdev-rajput&show_icons=true&theme=merko)](https://github.com/Sahdev-rajput)
