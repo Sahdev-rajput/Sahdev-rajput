@@ -5,7 +5,7 @@
 🏠 I’m currently pursuing B.tech in CSE from NIT Srinagar, Jammu & Kashmir. <br/>
 👨‍💻 I’m a Full Stack Developer.<br/>
 🔭 I’m currently working on my projects.<br/>
-🌱 I’m currently learning React.js🤦‍♂.<br/>
+🌱 I’m currently learning component-based library which is used to build react applications🤦‍♂.<br/>
 ☕️ I’m coffeer. <br/>
 ⚡ Coded extensively in C\C++...
 
