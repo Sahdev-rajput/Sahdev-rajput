@@ -9,7 +9,7 @@
 ☕️ I’m coffeer. <br/>
 ⚡ Coded extensively in C\C++...
 
-🏻 <p align="left"> 👉<img src="https://komarev.com/ghpvc/?username=Sahdev-rajput&label=Profile%20views&color=0e75b6&style=flat" alt="Sahdev-rajput" /> </p>
+ <p align="left"> 👉<img src="https://komarev.com/ghpvc/?username=Sahdev-rajput&label=Profile%20views&color=0e75b6&style=flat" alt="Sahdev-rajput" /> </p>
 
 
 
