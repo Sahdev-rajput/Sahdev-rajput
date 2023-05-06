@@ -9,7 +9,8 @@
 ☕️ I’m coffeer. <br/>
 ⚡ Coded extensively in C\C++...
 
-👉🏻 ![Visitor Count](https://profile-counter.glitch.me/Sahdev-rajput/count.svg)
+👉🏻 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sahdev-rajput&label=Profile%20views&color=0e75b6&style=flat" alt="Sahdev-rajput" /> </p>
+
 
 
   ### :fire: My Stats :
