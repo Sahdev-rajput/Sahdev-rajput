@@ -17,7 +17,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sahdev-rajput)](https://git.io/streak-stats)
 
 [![SAHDEV's github stats](https://github-readme-stats.vercel.app/api?username=Sahdev-rajput&show_icons=true&theme=merko)](https://github.com/Sahdev-rajput)
-//[![Sahdev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sahdev-rajput&bg_color=3ef40b&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <br />
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
